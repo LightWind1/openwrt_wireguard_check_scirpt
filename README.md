@@ -1,0 +1,1 @@
+# openwrt_wireguard_check_scirpt
