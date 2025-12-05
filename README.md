@@ -1,1 +1,3 @@
 # openwrt_wireguard_check_scirpt
+
+一个检查wireguard隧道对端的地址是否发生变化，需要重新连接的脚本
